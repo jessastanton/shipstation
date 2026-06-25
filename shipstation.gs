@@ -8,8 +8,6 @@
 // ============================================================
 
 var RECIPIENTS = [
-  'jim@kolikof.com',
-  'paula@kolikof.com',
   'jessica@kolikof.com'
 ];
 
